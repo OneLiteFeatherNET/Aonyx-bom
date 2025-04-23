@@ -2,5 +2,21 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "config:recommended"
-  ]
+  ],
+  "labels": [
+    "renovate"
+  ],
+  "packageRules": [
+    {
+      "matchUpdateTypes": ["patch", "minor", "major"],
+      "automerge": true,
+      "automergeType": "branch"
+    }
+  ],
+  "vulnerabilityAlerts": {
+    "labels": [
+      "security"
+    ],
+    "automerge": true
+  }
 }

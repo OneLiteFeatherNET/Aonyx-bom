@@ -26,7 +26,7 @@ dependencyResolutionManagement {
             version("mycelium.bom", "1.2.0")
 
             library("mycelium.bom", "net.onelitefeather.mycelium.bom", "mycelium-bom").versionRef("mycelium.bom")
-            library("aves", "de.icevizion.lib", "aves").versionRef("aves")
+            library("aves", "net.theevilreaper.aves", "aves").versionRef("aves")
             library("xerus", "net.theevilreaper.xerus", "xerus").versionRef("xerus")
         }
     }

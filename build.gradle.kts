@@ -3,8 +3,8 @@ plugins {
     `java-platform`
 }
 
-group = "net.onelitefeather.aonyx.bom"
-version = "0.2.1"
+group = "net.onelitefeather"
+version = "0.3.0"
 
 javaPlatform {
     allowDependencies()

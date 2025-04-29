@@ -21,8 +21,8 @@ dependencyResolutionManagement {
     }
     versionCatalogs {
         create("libs") {
-            version("aves", "1.6.1")
-            version("xerus", "1.3.0")
+            version("aves", "1.7.0")
+            version("xerus", "1.4.0")
             version("mycelium.bom", "1.2.0")
 
             library("mycelium.bom", "net.onelitefeather.mycelium.bom", "mycelium-bom").versionRef("mycelium.bom")

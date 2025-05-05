@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "net.onelitefeather"
-version = "0.3.0"
+version = "0.4.0"
 
 javaPlatform {
     allowDependencies()
@@ -13,6 +13,7 @@ javaPlatform {
 dependencies {
     constraints {
         api(platform(libs.mycelium.bom))
+        api(libs.guira)
         api(libs.aves)
         api(libs.xerus)
     }

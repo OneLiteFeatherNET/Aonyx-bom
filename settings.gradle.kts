@@ -22,7 +22,7 @@ dependencyResolutionManagement {
     versionCatalogs {
         create("libs") {
             version("aves", "1.10.0")
-            version("xerus", "1.6.0")
+            version("xerus", "1.7.1")
             version("mycelium.bom", "1.4.0")
             version("guira", "0.3.0")
 

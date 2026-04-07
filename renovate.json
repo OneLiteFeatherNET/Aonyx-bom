@@ -9,8 +9,7 @@
   "packageRules": [
     {
       "matchUpdateTypes": ["patch", "minor", "major"],
-      "automerge": true,
-      "automergeType": "branch"
+      "automerge": true
     }
   ],
   "vulnerabilityAlerts": {

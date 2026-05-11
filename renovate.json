@@ -1,21 +1,12 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "config:recommended"
-  ],
-  "labels": [
-    "renovate"
+    "github>onelitefeathernet/renovate"
   ],
   "packageRules": [
     {
-      "matchUpdateTypes": ["patch", "minor", "major"],
+      "matchUpdateTypes": ["minor", "major"],
       "automerge": true
     }
-  ],
-  "vulnerabilityAlerts": {
-    "labels": [
-      "security"
-    ],
-    "automerge": true
-  }
+  ]
 }

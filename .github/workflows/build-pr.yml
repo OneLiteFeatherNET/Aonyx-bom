@@ -3,7 +3,7 @@ on: [pull_request]
 
 jobs:
   build:
-    uses: OneLiteFeatherNET/workflows/.github/workflows/gradle-build-pr.yml@v2
+    uses: OneLiteFeatherNET/workflows/.github/workflows/gradle-build-pr.yml@v2.0.0
     with:
       java-version: "21"
     secrets: inherit

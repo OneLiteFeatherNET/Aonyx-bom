@@ -5,7 +5,7 @@ on:
 
 jobs:
   publish:
-    uses: OneLiteFeatherNET/workflows/.github/workflows/gradle-publish.yml@v2.0.0
+    uses: OneLiteFeatherNET/workflows/.github/workflows/gradle-publish.yml@v2.0.1
     with:
       java-version: "21"
     secrets: inherit

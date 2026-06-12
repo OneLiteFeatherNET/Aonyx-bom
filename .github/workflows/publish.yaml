@@ -29,22 +29,3 @@ jobs:
         env:
           ONELITEFEATHER_MAVEN_USERNAME: ${{ secrets.ONELITEFEATHER_MAVEN_USERNAME }}
           ONELITEFEATHER_MAVEN_PASSWORD: ${{ secrets.ONELITEFEATHER_MAVEN_PASSWORD }}
-      - name: Generate CycloneDX BOM
-        run: ./gradlew cyclonedxBom
-      - name: Strip leading v from tag
-        if: startsWith(github.ref, 'refs/tags/')
-        run: echo "VERSION=${GITHUB_REF_NAME#v}" >> "$GITHUB_ENV"
-      - run: | 
-          echo "Version: $VERSION"
-        name: Display Version
-      - name: Upload BOM to Dependency-Track
-        uses: DependencyTrack/gh-upload-sbom@v3
-        with:
-          serverhostname: ${{ secrets.DEPENDENCYTRACK_HOSTNAME }}
-          apikey: ${{ secrets.DEPENDENCYTRACK_APIKEY }}
-          projectname: "Mycelium-Bom"
-          projectversion: ${{ env.VERSION }}
-          projecttags: 'bom,minestom'
-          bomfilename: "build/reports/cyclonedx/bom.xml"
-          autocreate: true
-          parent: '9a10b066-ecf1-4b38-b670-a197dcd5556a'

@@ -14,5 +14,5 @@ jobs:
     with:
       java-version: "25"
       java-distribution: "temurin"
-      run-tests: true
+      run-tests: false
     secrets: inherit

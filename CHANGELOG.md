@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.2](https://github.com/OneLiteFeatherNET/Aonyx-bom/compare/0.8.1...0.8.2) (2026-07-27)
+
+
+### Bug Fixes
+
+* **deps:** update Xerus to 1.12.1 ([dc3036c](https://github.com/OneLiteFeatherNET/Aonyx-bom/commit/dc3036cbdc0c1bb70464b06d05ea0d873855cd84))
+
 ## [0.8.1](https://github.com/OneLiteFeatherNET/Aonyx-bom/compare/0.8.0...0.8.1) (2026-07-24)
 
 

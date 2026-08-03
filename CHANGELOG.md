@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.8.3](https://github.com/OneLiteFeatherNET/Aonyx-bom/compare/0.8.2...0.8.3) (2026-08-03)
+
+
+### Bug Fixes
+
+* **deps:** add falco bom and update readme content ([f3079ab](https://github.com/OneLiteFeatherNET/Aonyx-bom/commit/f3079abb60fd26b8327a2985898ec15cd9124242))
+* **deps:** update Aves to 1.16.1 ([97045c5](https://github.com/OneLiteFeatherNET/Aonyx-bom/commit/97045c51d1e9d91af02046301165d13dffff7ad4))
+
 ## [0.8.2](https://github.com/OneLiteFeatherNET/Aonyx-bom/compare/0.8.1...0.8.2) (2026-07-27)
 
 

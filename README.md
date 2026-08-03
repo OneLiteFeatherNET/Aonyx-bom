@@ -4,6 +4,7 @@ The Aonyx project is a Software Bill of Materials (SBOM) definition primarily in
 It builds on top of the `mycelium-bom` and defines additional dependencies.
 
 These include:
+
 - Aves
 - Xerus
 - Guira
@@ -21,5 +22,7 @@ dependencies {
     implementation("net.theevilreaper:aves")
     implementation("net.theevilreaper:xerus")
     implementation("net.onelitefeather:guira")
+    implementation("net.onelitefeather:falco-anvil")
+    implementation("net.onelitefeather:falco-light")
     // ...
 }

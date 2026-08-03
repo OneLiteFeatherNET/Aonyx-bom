@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.4](https://github.com/OneLiteFeatherNET/Aonyx-bom/compare/0.8.3...0.8.4) (2026-08-03)
+
+
+### Bug Fixes
+
+* **deps:** add missing api usage for falco ([b5c18a5](https://github.com/OneLiteFeatherNET/Aonyx-bom/commit/b5c18a51557ef313cf4b4740b3d2513556c98d3e))
+
 ## [0.8.3](https://github.com/OneLiteFeatherNET/Aonyx-bom/compare/0.8.2...0.8.3) (2026-08-03)
 
 

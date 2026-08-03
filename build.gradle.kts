@@ -12,6 +12,7 @@ javaPlatform {
 
 dependencies {
     api(platform(libs.mycelium.bom))
+    api(platform(libs.falco.bom))
     constraints {
         api(libs.guira)
         api(libs.aves)

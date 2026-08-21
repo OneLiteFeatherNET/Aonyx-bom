@@ -1,22 +1,16 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "github>OneLiteFeatherNET/renovate:default(OneLiteFeatherNET/mycelium-maintainers)",
-    "github>OneLiteFeatherNET/renovate:minestom"
-  ],
-  "labels": [
-    "renovate"
+    "github>OneLiteFeatherNET/renovate:default(OneLiteFeatherNET/mycelium-maintainers)"
   ],
   "packageRules": [
     {
-      "matchUpdateTypes": ["major", "minor", "patch"],
+      "matchUpdateTypes": [
+        "major",
+        "minor",
+        "patch"
+      ],
       "automerge": true
     }
-  ],
-  "vulnerabilityAlerts": {
-    "labels": [
-      "security"
-    ],
-    "automerge": true
-  }
+  ]
 }

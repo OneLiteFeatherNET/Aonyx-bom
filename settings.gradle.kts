@@ -24,7 +24,7 @@ dependencyResolutionManagement {
             version("aves", "1.16.3")
             version("xerus", "1.12.2")
             version("mycelium.bom", "1.8.4")
-            version("guira", "0.10.2")
+            version("guira", "0.10.3")
             version("falco.bom", "2.1.0")
 
             library("mycelium.bom", "net.onelitefeather", "mycelium-bom").versionRef("mycelium.bom")

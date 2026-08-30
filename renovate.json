@@ -4,19 +4,14 @@
     "github>OneLiteFeatherNET/renovate:default(OneLiteFeatherNET/mycelium-maintainers)",
     "github>OneLiteFeatherNET/renovate:minestom"
   ],
-  "labels": [
-    "renovate"
-  ],
   "packageRules": [
     {
-      "matchUpdateTypes": ["major", "minor", "patch"],
+      "matchUpdateTypes": [
+        "major",
+        "minor",
+        "patch"
+      ],
       "automerge": true
     }
-  ],
-  "vulnerabilityAlerts": {
-    "labels": [
-      "security"
-    ],
-    "automerge": true
-  }
+  ]
 }

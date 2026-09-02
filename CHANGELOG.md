@@ -1,5 +1,24 @@
 # Changelog
 
+## [0.8.5](https://github.com/OneLiteFeatherNET/Aonyx-bom/compare/0.8.4...0.8.5) (2026-09-02)
+
+
+### Bug Fixes
+
+* **deps:** update dependency net.onelitefeather:falco-bom to v2 ([#72](https://github.com/OneLiteFeatherNET/Aonyx-bom/issues/72)) ([e697491](https://github.com/OneLiteFeatherNET/Aonyx-bom/commit/e697491fbc36035920f59f1a9e2249d93c558ff4))
+* **deps:** update dependency net.onelitefeather:falco-bom to v2.1.0 ([#76](https://github.com/OneLiteFeatherNET/Aonyx-bom/issues/76)) ([d30ad4f](https://github.com/OneLiteFeatherNET/Aonyx-bom/commit/d30ad4f60c132429dbef3f37a0a8342716c47fca))
+* **deps:** update dependency net.onelitefeather:guira to v0.10.2 ([#73](https://github.com/OneLiteFeatherNET/Aonyx-bom/issues/73)) ([8094ffb](https://github.com/OneLiteFeatherNET/Aonyx-bom/commit/8094ffb68dce94a8c6354775343717febe56ddc6))
+* **deps:** update dependency net.onelitefeather:guira to v0.10.3 ([#87](https://github.com/OneLiteFeatherNET/Aonyx-bom/issues/87)) ([5ef7a08](https://github.com/OneLiteFeatherNET/Aonyx-bom/commit/5ef7a08724698949d61d375f4045055d03a742f2))
+* **deps:** update dependency net.onelitefeather:mycelium-bom to v1.8.2 ([#69](https://github.com/OneLiteFeatherNET/Aonyx-bom/issues/69)) ([4891817](https://github.com/OneLiteFeatherNET/Aonyx-bom/commit/4891817040f2a1556aa0860aaa92d16b25e4122e))
+* **deps:** update dependency net.onelitefeather:mycelium-bom to v1.8.3 ([#77](https://github.com/OneLiteFeatherNET/Aonyx-bom/issues/77)) ([6ecbc37](https://github.com/OneLiteFeatherNET/Aonyx-bom/commit/6ecbc374bd45bd76aa48dee44b326d5928332d4d))
+* **deps:** update dependency net.onelitefeather:mycelium-bom to v1.8.4 ([#86](https://github.com/OneLiteFeatherNET/Aonyx-bom/issues/86)) ([07b535b](https://github.com/OneLiteFeatherNET/Aonyx-bom/commit/07b535bcc1fbfb10bd0dea427299d56440f53621))
+* **deps:** update dependency net.onelitefeather:mycelium-bom to v1.8.5 ([#88](https://github.com/OneLiteFeatherNET/Aonyx-bom/issues/88)) ([16b28d4](https://github.com/OneLiteFeatherNET/Aonyx-bom/commit/16b28d4f1357c80cc21fb60105f04d27263c98dd))
+* **deps:** update dependency net.theevilreaper:aves to v1.16.2 ([#74](https://github.com/OneLiteFeatherNET/Aonyx-bom/issues/74)) ([9464c6a](https://github.com/OneLiteFeatherNET/Aonyx-bom/commit/9464c6a9c8eacd3d56f317b1c4060af03ece4a25))
+* **deps:** update dependency net.theevilreaper:aves to v1.16.3 ([#84](https://github.com/OneLiteFeatherNET/Aonyx-bom/issues/84)) ([9af0e9c](https://github.com/OneLiteFeatherNET/Aonyx-bom/commit/9af0e9ca709d667f8b04e44fd28eb76cdde05323))
+* **deps:** update dependency net.theevilreaper:aves to v1.16.5 ([#89](https://github.com/OneLiteFeatherNET/Aonyx-bom/issues/89)) ([86c523b](https://github.com/OneLiteFeatherNET/Aonyx-bom/commit/86c523b40bb0c5f5f62695251039e6ee88630db9))
+* **deps:** update dependency net.theevilreaper:xerus to v1.12.2 ([#78](https://github.com/OneLiteFeatherNET/Aonyx-bom/issues/78)) ([21cdb93](https://github.com/OneLiteFeatherNET/Aonyx-bom/commit/21cdb93300f2b7ec6d3ccc07af3a9954f3f5eeec))
+* **deps:** update dependency net.theevilreaper:xerus to v1.12.3 ([#90](https://github.com/OneLiteFeatherNET/Aonyx-bom/issues/90)) ([ceb5052](https://github.com/OneLiteFeatherNET/Aonyx-bom/commit/ceb5052538818f0c7b357d71c8bed649b7da1624))
+
 ## [0.8.4](https://github.com/OneLiteFeatherNET/Aonyx-bom/compare/0.8.3...0.8.4) (2026-08-03)
 
 

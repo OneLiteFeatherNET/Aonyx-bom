@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.6](https://github.com/OneLiteFeatherNET/Aonyx-bom/compare/0.8.5...0.8.6) (2026-09-03)
+
+
+### Bug Fixes
+
+* **deps:** update dependency net.onelitefeather:guira to v0.10.4 ([#91](https://github.com/OneLiteFeatherNET/Aonyx-bom/issues/91)) ([9fa523f](https://github.com/OneLiteFeatherNET/Aonyx-bom/commit/9fa523fcad79abf0383d7d6cf4823a484de7364f))
+
 ## [0.8.5](https://github.com/OneLiteFeatherNET/Aonyx-bom/compare/0.8.4...0.8.5) (2026-09-02)
 
 

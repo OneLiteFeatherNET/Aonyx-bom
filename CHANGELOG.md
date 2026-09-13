@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.8.7](https://github.com/OneLiteFeatherNET/Aonyx-bom/compare/0.8.6...0.8.7) (2026-09-13)
+
+
+### Bug Fixes
+
+* **deps:** update dependency net.onelitefeather:falco-bom to v3 ([#95](https://github.com/OneLiteFeatherNET/Aonyx-bom/issues/95)) ([a9387e3](https://github.com/OneLiteFeatherNET/Aonyx-bom/commit/a9387e35e7b45150ac7d5fcd2fe69c04dfe4d1c1))
+* **deps:** update dependency net.theevilreaper:aves to v1.16.6 ([#97](https://github.com/OneLiteFeatherNET/Aonyx-bom/issues/97)) ([447725e](https://github.com/OneLiteFeatherNET/Aonyx-bom/commit/447725e9391b4b5806c1a46bf6f85dfe143cf201))
+
 ## [0.8.6](https://github.com/OneLiteFeatherNET/Aonyx-bom/compare/0.8.5...0.8.6) (2026-09-03)
 
 

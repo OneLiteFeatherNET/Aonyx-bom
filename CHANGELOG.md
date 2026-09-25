@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.8](https://github.com/OneLiteFeatherNET/Aonyx-bom/compare/0.8.7...0.8.8) (2026-09-25)
+
+
+### Bug Fixes
+
+* **deps:** update dependency net.onelitefeather:mycelium-bom to v1.8.6 ([#98](https://github.com/OneLiteFeatherNET/Aonyx-bom/issues/98)) ([722974e](https://github.com/OneLiteFeatherNET/Aonyx-bom/commit/722974ed1867c4de32e4ae86d3e08aedf2e33d4e))
+
 ## [0.8.7](https://github.com/OneLiteFeatherNET/Aonyx-bom/compare/0.8.6...0.8.7) (2026-09-13)
 
 

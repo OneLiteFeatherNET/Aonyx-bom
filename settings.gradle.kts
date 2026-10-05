@@ -23,7 +23,7 @@ dependencyResolutionManagement {
         create("libs") {
             version("aves", "1.16.6")
             version("xerus", "1.12.3")
-            version("mycelium.bom", "1.8.6")
+            version("mycelium.bom", "1.8.7")
             version("guira", "0.10.4")
             version("falco.bom", "3.0.0")
 

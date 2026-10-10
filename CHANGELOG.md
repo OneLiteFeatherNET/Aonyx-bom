@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.8.8](https://github.com/OneLiteFeatherNET/Aonyx-bom/compare/0.8.7...0.8.8) (2026-10-10)
+
+
+### Bug Fixes
+
+* **deps:** update dependency net.onelitefeather:guira to v0.10.5 ([#105](https://github.com/OneLiteFeatherNET/Aonyx-bom/issues/105)) ([20a8a6f](https://github.com/OneLiteFeatherNET/Aonyx-bom/commit/20a8a6f8911485cdf2aff5dc8253e0429464fa3d))
+* **deps:** update dependency net.onelitefeather:guira to v0.10.6 ([#108](https://github.com/OneLiteFeatherNET/Aonyx-bom/issues/108)) ([0697b34](https://github.com/OneLiteFeatherNET/Aonyx-bom/commit/0697b3407ae9145c962a013fbe10551d984aa0c9))
+* **deps:** update dependency net.onelitefeather:mycelium-bom to v1.8.6 ([#98](https://github.com/OneLiteFeatherNET/Aonyx-bom/issues/98)) ([722974e](https://github.com/OneLiteFeatherNET/Aonyx-bom/commit/722974ed1867c4de32e4ae86d3e08aedf2e33d4e))
+* **deps:** update dependency net.onelitefeather:mycelium-bom to v1.8.7 ([#101](https://github.com/OneLiteFeatherNET/Aonyx-bom/issues/101)) ([73c1b44](https://github.com/OneLiteFeatherNET/Aonyx-bom/commit/73c1b447b7e71c32ebf2c8306fe7bdd51553df16))
+* **deps:** update dependency net.onelitefeather:mycelium-bom to v1.8.8 ([#102](https://github.com/OneLiteFeatherNET/Aonyx-bom/issues/102)) ([399a504](https://github.com/OneLiteFeatherNET/Aonyx-bom/commit/399a50411cafc7dbc5980a62d0370007d1e619e7))
+* **deps:** update dependency net.onelitefeather:mycelium-bom to v1.8.9 ([#104](https://github.com/OneLiteFeatherNET/Aonyx-bom/issues/104)) ([07c9c31](https://github.com/OneLiteFeatherNET/Aonyx-bom/commit/07c9c31c9a32b03fd5af1297ef9ad2476790699a))
+* **deps:** update dependency net.theevilreaper:aves to v1.16.7 ([#106](https://github.com/OneLiteFeatherNET/Aonyx-bom/issues/106)) ([e374590](https://github.com/OneLiteFeatherNET/Aonyx-bom/commit/e3745902cd40f3a6bf95ca5e0674894c470bcdab))
+* **deps:** update dependency net.theevilreaper:xerus to v1.12.4 ([#107](https://github.com/OneLiteFeatherNET/Aonyx-bom/issues/107)) ([a645a7d](https://github.com/OneLiteFeatherNET/Aonyx-bom/commit/a645a7d5cfabf22732dbf1103460c6095c8046b4))
+
 ## [0.8.7](https://github.com/OneLiteFeatherNET/Aonyx-bom/compare/0.8.6...0.8.7) (2026-09-13)
 
 

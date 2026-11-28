@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.10](https://github.com/OneLiteFeatherNET/Aonyx-bom/compare/0.8.9...0.8.10) (2026-11-28)
+
+
+### Bug Fixes
+
+* **deps:** update dependency net.onelitefeather:falco-bom to v3.0.2 ([#117](https://github.com/OneLiteFeatherNET/Aonyx-bom/issues/117)) ([db93d85](https://github.com/OneLiteFeatherNET/Aonyx-bom/commit/db93d859f8d63ca86e91d933e336c9f2b3c7974a))
+
 ## [0.8.9](https://github.com/OneLiteFeatherNET/Aonyx-bom/compare/0.8.8...0.8.9) (2026-10-11)
 
 
